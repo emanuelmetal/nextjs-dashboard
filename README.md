@@ -1,1 +1,1 @@
-# practive-nextjs
+# nextjs-dashboard
